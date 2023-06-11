@@ -1,4 +1,4 @@
-# ReDI_project
+# ReDI_project | Regression Problem
 Predicting the `HOMO-LUMO Gap` of Molecules Based on Quantum Properties: `Comparison of Different Learning Models.`
 
 `Dataset:` Transition Metals Quantum Mechanics dataset `(tmQM)`. 
